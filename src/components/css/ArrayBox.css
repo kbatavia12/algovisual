@@ -1,0 +1,9 @@
+.arrayBox {
+    background-color: grey;
+    border: 1px black solid;
+    display: flex;
+    width: 4%;
+    height: 4%;
+    align-items: center;
+    justify-content: center;
+}
